@@ -58,9 +58,9 @@ The testbench drives the FSM through its states using sequences of `TMS` and `TC
 
 ## 🤝 Author
 
-Reyansh Gahlot
+Basit Rehman
 Hardware & Digital Design Enthusiast  
-Connect with me on [LinkedIn](https://www.linkedin.com/in/reyanshgahlot/)
+Connect with me on [LinkedIn][(https://www.linkedin.com/in/basit-wanii)}
 
 ---
 
